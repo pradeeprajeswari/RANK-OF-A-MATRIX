@@ -9,7 +9,8 @@ To write a python program to find the rank of a matrix
 Import numpy as np
 ### Step 2:
 Initialize a variable 'A' as an array from the np module
-### Step 3: Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
+### Step 3:
+Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 ### Step 4:
 Now print the value 
 ## Program:
